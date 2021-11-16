@@ -1,0 +1,35 @@
+h1{
+  text-align:ceter;
+  color:purple;
+  
+}
+img{
+  height:100px;
+  width:auto;
+  display: left
+}
+.main-image{
+  text-align: center;
+}
+span{
+  height:30px;
+  width:auto;
+
+}
+.box {
+  width: 100%;
+  height: 300px;
+  border: 5px dashed #f7a239;
+}
+.row {
+  display: flex;
+            }
+.column {
+    flex: 1;
+    padding: 10px;
+    text-align: side;
+            }
+.center-container {
+  text-align: center;
+}
+
